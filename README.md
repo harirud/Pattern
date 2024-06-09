@@ -1,2 +1,3 @@
 # Pattern
-patterns using for loops
+* patterns using for loops
+
